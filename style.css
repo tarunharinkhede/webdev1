@@ -1,0 +1,97 @@
+body {
+    background: url(back.png);
+
+}
+
+h1 {
+    color: rgb(201, 120, 22);
+    position: absolute;
+
+}
+
+table {
+
+    font-size: x-large;
+    color: bisque;
+    padding: 2rem;
+    margin-left: 40%;
+    margin-top: 0%;
+}
+
+
+
+.container2 {
+    background: url(meeting.png);
+    opacity: 90%;
+}
+
+h2 {
+    color: rgb(9, 226, 226);
+    padding: 3%;
+    margin-top: 0%;
+    font-style: oblique;
+    font-size: x-large;
+
+
+}
+
+p {
+    color: rgb(229, 244, 22);
+    text-align: left;
+    font-size: large;
+
+
+}
+
+.column {
+    float: left;
+    width: 33.33%;
+}
+
+.row {
+    display: table;
+    clear: both;
+    content: "launch";
+}
+
+.container3 {
+    background-color: rgb(163, 52, 211);
+    padding: 5%;
+}
+
+border-box {
+    padding: 9%;
+    color: white;
+    font-size: large;
+
+}
+
+h2 {
+    margin-left: 3%;
+    text-decoration: underline;
+    text-decoration-color: rgb(148, 175, 40);
+}
+
+h3 {
+    color: white;
+    font-size: large;
+    margin-left: 5%;
+}
+
+img {
+
+    max-width: 350px;
+    float: right;
+
+}
+
+.container4 img {
+    padding: 2%;
+    opacity: 50%;
+
+}
+
+h4 {
+    color: white;
+
+}
